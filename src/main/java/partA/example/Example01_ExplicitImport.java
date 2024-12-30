@@ -9,5 +9,5 @@ public class Example01_ExplicitImport { //beginning of class definition
         System.out.println("Hello user, please enter a number."); //output of something
         int numEntered = sc.nextInt(); //user must input a number
         System.out.println("You entered " + numEntered); //outputs what the user inputted and a string of text
-    }
-}
+    } //end method main
+} //end class Example01_ExplicitImport
